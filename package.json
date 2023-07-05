@@ -1,0 +1,11 @@
+{
+  "name": "point-in-polygon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
